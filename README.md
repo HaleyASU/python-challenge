@@ -9,3 +9,9 @@ greatest_decrease = float('inf)
 4. Corrected string formatting in my print and write statements
 5. changed "greatest_increase_month" and "greatest_decrease_month" from " = date" to unassigned variable. Fix: greatest_increase_month = ""
 6. added a new line to the txt_file.write function by adding (\n)
+
+Coding for PyPoll:
+tutoring from: Angel Milla - helped me begin my code
+ChatGPT corrected Code for PyPoll: 
+1. Corrected the for loop statment because my original code returned the same candidate three times opposed to the three total candidates
+2. Helped write code for printing candidates vote count and percentage
